@@ -14,7 +14,7 @@ If you want to access our endpoints, first you need to access register and login
 
 ## How to run this API on your local machine 💻
 If you want to run this API Server on your local machine, you need to do this steps:
-- First, clone this repository. `git clone https://github.com/tiksnadion/capstone-project-.git`
+- First, clone this repository. `git clone https://github.com/muhammad-asyam/backend.git`
 - Second, open terminal and go to this project's root directory.
 - Third, type `npm install` in your terminal and hit enter button.
 - fourth, Set up environment variables:
